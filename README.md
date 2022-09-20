@@ -51,17 +51,14 @@
 
 <h2><i>My GitHub Stats</i></h2>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" />           
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" /><br/>           
 
-![](https://github-readme-stats.vercel.app/api?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=lokesh-dc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-dc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=premj44&theme=dark&hide_border=false)<br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="250" />
 
 <br />
-<br/>
-
 
 
 <!---- Stats Section End -------->
