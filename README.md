@@ -59,8 +59,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="200" />
 
 <br />
-
-
 <!---- Stats Section End -------->
 
 
@@ -69,17 +67,15 @@
 <!-------Main Repository Section------------->
 
 <h2><i>Main Repositories</i></h2>
-<div display=flex>
+<div >
     <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
-  <br/>
-   <br/>
-   <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
+  
+    <a href="https://github.com/Prakarshprasar/Project-3">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Project-3&locale=en&border_radius=0&theme=dark"                           alt="premj44" />
     </a>
-  <br/>
-   <br/>
+  
     <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
@@ -88,6 +84,8 @@
 <br/>
 
 <!-------Main Repository Section End------------->
+
+
 
 <a href="https://github.com/premj44/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=premj44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
