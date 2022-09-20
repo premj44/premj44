@@ -55,8 +55,8 @@
 <h2><i>Main Repositories</i></h2>
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
     <a href="https://github.com/m-sehrawat/Mini-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
