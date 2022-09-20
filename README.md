@@ -52,7 +52,10 @@
 <h2><i>My GitHub Stats</i></h2>
 <p>
   
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?               username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact_width="800")<br />
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?               
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
+
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=premj44&theme=dark&hide_border=false)<br/>
   
