@@ -79,6 +79,10 @@
   <a href="https://github.com/Prakarshprasar/Project-3">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=Project-3&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
+  
+   <a href="https://github.com/premj44/silent-knowledge-2345">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=silent-knowledge-2345&locale=en&border_radius=0&theme=dark"             alt="premj44" />
+    </a>
     
 </p>
 
