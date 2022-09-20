@@ -67,7 +67,7 @@
 <!-------Main Repository Section------------->
 
 <h2><i>Main Repositories</i></h2>
-<div >
+<p >
     <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
@@ -80,7 +80,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
     
-</div>
+</p>
 <br/>
 
 <!-------Main Repository Section End------------->
