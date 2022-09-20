@@ -50,7 +50,7 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact_height="400")<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact_width="400")<br />
 
 <!-------Main Repository Section------------->
 
