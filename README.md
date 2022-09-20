@@ -72,12 +72,12 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
   
-    <a href="https://github.com/premj44/confused-volcano-6333">
+   <a href="https://github.com/premj44/confused-volcano-6333">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=confused-volcano-6333&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
   
-   <a href="https://github.com/premj44/confused-volcano-6333">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=confused-volcano-6333&locale=en&border_radius=0&theme=dark"             alt="premj44" />
+  <a href="https://github.com/Prakarshprasar/Project-3">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=Project-3&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
     
 </p>
