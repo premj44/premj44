@@ -21,6 +21,8 @@
 
 <br/>
 
+<!-------Connect Section------------->
+
 <h2 align="left"><i>Connect with me:</i></h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/premkumar-jadhav-163320230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premkumar-jadhav-163320230/" height="30" width="40" /></a>
@@ -29,6 +31,11 @@
 </p>
 
 <br/>
+<!-------Connect Section End------------->
+
+
+
+<!-------Teach Stack Section------------->
 
 <h2 align="left"><i>Languages and Tools:</i></h2>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -37,20 +44,29 @@
 
 <br/>
 
+<!-------Teach Stack Section End------------->
+
 
 <!---- Stats Section -------->
 
 <h2><i>My GitHub Stats</i></h2>
-
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="400" />
+  
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?               username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact_width="800")<br />
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=premj44&theme=dark&hide_border=false)<br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="400" />
 </p>
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact_width="800")<br />
+
+
+<!---- Stats Section End -------->
+
+
+
 
 <!-------Main Repository Section------------->
 
@@ -72,6 +88,8 @@
 </p>
 
 <br/>
+
+<!-------Main Repository Section End------------->
 
 <a href="https://github.com/premj44/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=premj44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
