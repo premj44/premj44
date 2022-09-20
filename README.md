@@ -55,16 +55,29 @@
 <h2><i>Main Repositories</i></h2>
 
 <p>
-     <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Nordstrom-Clone&locale=en&border_radius=0&theme=dark"            alt="premj44" />
+    <a href="https://github.com/m-sehrawat/Nike-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-  
-    <a href="https://github.com/premj44/confused-volcano-6333">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=confused-volcano-6333&locale=en&border_radius=0&theme=dark" alt="premj44" />
+    <a href="https://github.com/m-sehrawat/Mini-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-  
-    <a href="https://github.com/Prakarshprasar/Project-3">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=
-Project-3&locale=en&border_radius=0&theme=dark" alt="premj44" />
-    </a> 
+    <a href="https://github.com/m-sehrawat/Weather-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Translation-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+     <a href="https://github.com/m-sehrawat/Facebook-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Food-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Adidas-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    
 </p>
