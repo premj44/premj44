@@ -10,13 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- DECCANHERALD CLONE [Deccan Herald is an Indian English language daily newspaper This is the project that was individually done by me and completed in 5 Days. HTML | CSS | JAVASCRIPT | REACT | CHAKRA UI](https://premnews.netlify.app/)
-
 - 🌱 I’m currently learning **Full Stack Web Developer**
-
-- NORDSTROM CLONE [Nordstrom is an American luxury clothing, shoes and accessories for men, women and kids This is the project that was individually done by me and completed in 5 Days. HTML | CSS | JAVASCRIPT](https://fancy-bubblegum-0316ae.netlify.app/)
-
-- JCREW CLONE [J.CREW is a brand that beliefs in creating timeless clothing and accessories A collaborative project, built in 5 days by a team of 5 developers HTML | CSS | JAVASCRIPT](https://timely-toffee-674f49.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://premj44.github.io/](https://premj44.github.io/)
 
