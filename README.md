@@ -59,7 +59,8 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
     <a href="https://github.com/Prakarshprasar/Project-3">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Project-3&locale=en&border_radius=0&theme=dark" alt="premj44" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Project-3
+        &locale=en&border_radius=0&theme=dark" alt="premj44" />
     </a>
     <a href="https://github.com/m-sehrawat/Weather-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
