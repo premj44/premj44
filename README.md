@@ -52,7 +52,7 @@
 <h2><i>My GitHub Stats</i></h2>
 <p>
   
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?               
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="200" />            
 <br />
 <br />
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
