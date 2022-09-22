@@ -24,11 +24,11 @@
 <!-------Connect Section------------->
 
 <h2 align="left"><i>Lets Connect</i></h2>
-<div align="left">
+
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premkumar-jadhav-163320230/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__premjadhav__44/)
-</div>
+
 
 <br/>
 <!-------Connect Section End------------->
