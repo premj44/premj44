@@ -10,7 +10,7 @@
 
 <h3 align="center"><i>A Passionate Full Stack Web Developer</i></h3>
 
-![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
+![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397)
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
