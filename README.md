@@ -12,7 +12,7 @@
 
 <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="850" height="300">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premj44&label=Profile%20views&color=0e75b6&style=flat" alt="premj44"  width="400" /> </p>
 
