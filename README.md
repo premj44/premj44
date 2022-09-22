@@ -10,7 +10,7 @@
 
 <h3 align="center"><i>A Passionate Full Stack Web Developer</i></h3>
 
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="800" height="300">
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="800" height="400">
 
 ![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397)
 
