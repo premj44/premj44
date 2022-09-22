@@ -23,11 +23,16 @@
 
 <!-------Connect Section------------->
 
-<h2 align="left"><i>Connect with me:</i></h2>
+<h2 align="left"><i>Lets Connect</i></h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/premkumar-jadhav-163320230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/premkumar-jadhav-163320230/" height="30" width="40" /></a>
-<a href="https://fb.com/premkumar jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="premkumar jadhav" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__premjadhav__44/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__premjadhav__44/" height="30" width="40" /></a>
+[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premkumar-jadhav-163320230/)
+ <a href="https://premj44.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="premportfolio" />
+ </a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__premjadhav__44/)
+
+<br>
 </p>
 
 <br/>
