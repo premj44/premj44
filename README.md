@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
-- 👨‍💻 My Portfolio [Premkumar Jadhav](https://premj44.github.io/)**
+- 👨‍💻 My Portfolio [Premkumar Jadhav](https://premj44.github.io/)
 
 - 💬 Ask me about **Anything u Like in coding/programming**
 
