@@ -88,21 +88,7 @@
 
 <h2><i>My Main Repositories</i></h2>
 <p >
-    <a href="https://github.com/premj44/U3.0-Project-Nordstrom">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=U3.0-Project-Nordstrom&locale=en&border_radius=0&theme=dark"             alt="premj44" />
-    </a>
   
-   <a href="https://github.com/premj44/confused-volcano-6333">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=confused-volcano-6333&locale=en&border_radius=0&theme=dark"             alt="premj44" />
-    </a>
-  
-  <a href="https://github.com/Prakarshprasar/J.Crew-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=Project-3&locale=en&border_radius=0&theme=dark"             alt="premj44" />
-    </a>
-  
-   <a href="https://github.com/premj44/silent-knowledge-2345">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=silent-knowledge-2345&locale=en&border_radius=0&theme=dark"             alt="premj44" />
-    </a>
     
 </p>
 
