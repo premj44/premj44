@@ -96,7 +96,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=confused-volcano-6333&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
   
-  <a href="https://github.com/Prakarshprasar/Project-3">
+  <a href="https://github.com/Prakarshprasar/J.Crew-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=Project-3&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
   
