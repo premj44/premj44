@@ -86,7 +86,7 @@
 
 <!-------Main Repository Section------------->
 
-<h2><i>My Main Repositories</i></h2>
+<h2><i>My Top Repositories</i></h2>
 <p >
   <a href="https://github.com/premj44/Nordstrom-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Nordstrom-Clone&locale=en&border_radius=0&theme=dark"             alt="premj44" />
