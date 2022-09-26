@@ -92,6 +92,18 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Nordstrom-Clone&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a>
     
+    <a href="https://github.com/premj44/DeccanHerald-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=DeccanHerald-Clone&locale=en&border_radius=0&theme=dark"             alt="premj44" />
+    </a>
+   
+    <a href="https://github.com/premj44/Nifty-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Nifty-Clone&locale=en&border_radius=0&theme=dark"                     alt="premj44" />
+    </a>
+    
+     <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
+    </a>
+    
 </p>
 
 
