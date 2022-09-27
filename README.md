@@ -113,4 +113,4 @@
 <a href="https://github.com/premj44/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=premj44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
-<img src="https://readme-typing-svg.herokuapp.com?font=GreatVibes;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=GreatVibes;color=black&amp;size=15&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
