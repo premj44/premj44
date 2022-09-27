@@ -74,7 +74,7 @@
 
 <h2><i>My GitHub Stats</i></h2>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" /><br/>           
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premj44&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="premj44" width="400" height="180" /><br/>           
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=premj44&theme=dark&hide_border=false)<br/>
