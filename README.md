@@ -9,6 +9,9 @@
 </h1>
 
 <h3 align="center"><i>A Passionate Full Stack Web Developer</i></h3>
+<p align="center">
+  <a href="https://github.com/premj44"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full+Stack+Web+Developer;HTML%20|CSS%20|%20JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="850" height="300">
 
