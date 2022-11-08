@@ -22,6 +22,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
+ 
+- 📄 My Resume  [Premkumar_Jadhav_Resume](https://drive.google.com/file/d/1tqlYIUeINIfAxQinXV_Hy1XlnYtla8ig/view?usp=sharing) 
 
 - 👨‍💻 My Portfolio [Premkumar Jadhav](https://premj44.github.io/)
 
