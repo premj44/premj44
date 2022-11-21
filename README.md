@@ -111,6 +111,12 @@ ambitions of the organization.</i></h3>
      <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
     </a>   
+     <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
+    </a> 
+     <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
+    </a> 
 </p>
 
 
