@@ -31,7 +31,7 @@ ambitions of the organization.</i></h3>
  
 - 📄 My Resume  [Premkumar_Jadhav_Resume](https://drive.google.com/file/d/1tqlYIUeINIfAxQinXV_Hy1XlnYtla8ig/view?usp=sharing) 
 
-- 👨‍💻 My Portfolio [Premkumar Jadhav](https://premj44.github.io/)
+- 👨‍💻 My Portfolio [premj44.github.io](https://premj44.github.io/)
 
 - 💬 Ask me about **Anything u Like in coding/programming**
 
