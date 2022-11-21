@@ -8,7 +8,13 @@
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
-<h3 align="center"><i>A Passionate Full Stack Web Developer</i></h3>
+<h3 align="center"><i>An aspiring full-stack web developer, Having the ability to
+adapt to new environments quickly and the strong
+expertise to communicate and express ideas effectively.
+Looking forward to working in an organization where I can
+showcase my skills and apply Knowledge of coding,
+development, and designs to leverage the goals and
+ambitions of the organization.</i></h3>
 <p align="center">
   <a href="https://github.com/premj44"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;HTML%20|CSS%20|%20JavaScript%20|%20React%20Enthusiast;NodeJs%20|Express%20|MongoDB;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
