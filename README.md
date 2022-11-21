@@ -111,11 +111,12 @@ ambitions of the organization.</i></h3>
      <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
     </a>   
-     <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
+     <a href="https://github.com/premj44/DeccanHerald-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=DeccanHerald-Clone
+          &locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a> 
-     <a href="https://github.com/Prakarshprasar/J.Crew-Clone ">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prakarshprasar&repo=J.Crew-Clone&locale=en&border_radius=0&theme=dark"                    alt="premj44" />
+     <a href="https://github.com/premj44/Nordstrom-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=premj44&repo=Nordstrom-Clone&locale=en&border_radius=0&theme=dark"             alt="premj44" />
     </a> 
 </p>
 
