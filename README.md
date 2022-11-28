@@ -88,6 +88,9 @@ ambitions of the organization.</i></h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=premj44&theme=dark&hide_border=false&height=190)<br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="premj44" height="190" />
+  
+&nbsp;<img  width="55%" src="https://github-readme-stats.vercel.app/api?username=premj44&show_icons=true&count_private=true" alt="premj44" /></div>
+
 
 <br />
 <!---- Stats Section End -------->
