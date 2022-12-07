@@ -123,9 +123,4 @@ ambitions of the organization.</i></h3>
 
 <!-------Main Repository Section End------------->
 
-
-
-<a href="https://github.com/premj44/github-readme-activity-graph">
-  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=premj44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
 <img src="https://readme-typing-svg.herokuapp.com?font=GreatVibes;color=000000&amp;size=15&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+liked+it....😇👋🏻‍💻;" style="width: 100%;">
